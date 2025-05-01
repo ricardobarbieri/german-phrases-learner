@@ -20,8 +20,8 @@ Deployment: Local server (extendable to production with WSGI)
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/german-phrase-learner.git
-cd german-phrase-learner~~~
+git clone https://github.com/ricardobarbieri/german-phrase-learner.git
+cd german-phrase-learner
 ```
 #Install dependencies:
 
