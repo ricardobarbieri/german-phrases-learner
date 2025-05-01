@@ -37,28 +37,8 @@ bash
 python app.py
 
 ---
-Access the app at http://localhost:5000.
+Access the app at *localhost:5000*
 ---
-
-# Project Structure
-
-german-phrase-learner/
-│
-├── app.py
-├── static/
-│   ├── styles.css
-│   └── scripts.js
-├── templates/
-│   ├── login.html
-│   ├── register.html
-│   ├── forgot.html
-│   ├── users.html
-│   ├── modes.html
-│   └── main.html
-├── users.json
-├── phrases.json
-├── logs.txt
-└── requirements.txt
 
 # Contributing
 Contributions are welcome! Please fork the repository, create a new branch, and submit a pull request with your changes.
