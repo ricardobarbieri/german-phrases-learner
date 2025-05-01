@@ -19,23 +19,24 @@ Deployment: Local server (extendable to production with WSGI)
 # Setup Instructions
 Clone the repository:
 
-bash
+```bash
 git clone https://github.com/yourusername/german-phrase-learner.git
-cd german-phrase-learner
-
+cd german-phrase-learner~~~
+```
 #Install dependencies:
 
-bash
+```bash
 pip install -r requirements.txt
+```
 
 *Ensure users.json and phrases.json are present in the project root (or create empty ones: {} and []).
 Configure email settings in app.py for password recovery (update SMTP credentials).*
 
 #Run the application:
 
-bash
+```bash
 python app.py
-
+```
 ---
 Access the app at *localhost:5000*
 ---
